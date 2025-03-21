@@ -2,6 +2,9 @@
 This is my first git repository
 <br>
 Authur - Naveen
+
+*Project Name - Python clean project*
+
 # Heading 1
 ## Heading 2
 ### Heading 3
